@@ -11,5 +11,9 @@ public class Iphone {
 			 iphone.mail();
 			 iphone.photo();
 			 iphone.internet();
+			 iphone.internet();
+			 iphone.internet();
+			 iphone.internet();
+			 iphone.internet();
 			 }
 }
